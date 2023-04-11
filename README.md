@@ -1,11 +1,6 @@
 <h1>Advanced CSS Challenge: Professional Portfolio</h1>
 This project involved creating a professional portfolio website from scratch to showcase work samples to potential employers. The portfolio is designed to be visually appealing, easy to navigate, and responsive, adapting to different screen sizes and devices.
 
-<h2>Portfolio website screenshot</h2>
-
-<h2>Live Demo</h2>
-You can view the live demo of the professional portfolio website here: Professional Portfolio Demo
-
 <h2>Features</h2>
 Developer's name, recent photo or avatar, and links to sections about them, their work, and how to contact them
 Smooth scrolling navigation to corresponding sections
