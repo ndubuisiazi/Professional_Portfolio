@@ -1,6 +1,27 @@
-# challenge_2
-This readme covers challenge 2. In this challenge i created a portfolio
-WHEN the page loads loads you are presented with my name (Ndubuisi Azi) and a recent photo along with a navagation menue at the top 
-WHEN you click one of the links in the navigation the UI scrolls to the corresponding section
-WHEN you click on the link to the section about my work the UI scrolls to a section with images of my applications
-WHEN you resize the page or view the site on various screens and devices the layout adapts to viewport
+<h1>Advanced CSS Challenge: Professional Portfolio</h1>
+This project involved creating a professional portfolio website from scratch to showcase work samples to potential employers. The portfolio is designed to be visually appealing, easy to navigate, and responsive, adapting to different screen sizes and devices.
+
+<h2>Portfolio website screenshot</h2>
+
+<h2>Live Demo</h2>
+You can view the live demo of the professional portfolio website here: Professional Portfolio Demo
+
+<h2>Features</h2>
+Developer's name, recent photo or avatar, and links to sections about them, their work, and how to contact them
+Smooth scrolling navigation to corresponding sections
+Titled images of the developer's applications
+Featured application with a larger image
+Clickable application images that redirect to deployed applications
+Responsive layout that adapts to different viewport sizes
+<h2>Installation</h2>
+Clone the repository
+bash
+Copy code
+git clone https://github.com/your-github-username/professional-portfolio.git
+Open the index.html file in your preferred web browser.
+<h2>Technologies Used</h2>
+HTML
+CSS (including Flexbox and media queries)
+CSS variables
+<h2>Acknowledgements</h2>
+This project was completed as part of a web development course challenge. The primary goal was to create a professional portfolio website to showcase work samples and demonstrate core skills in HTML, CSS, Flexbox, media queries, and CSS variables.
