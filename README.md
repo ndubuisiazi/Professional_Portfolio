@@ -17,7 +17,7 @@ Responsive layout that adapts to different viewport sizes
 Clone the repository
 bash
 Copy code
-git clone https://github.com/your-github-username/professional-portfolio.git
+git clone https://github.com/ndubuisiazi/Professional_Portfolio.git
 Open the index.html file in your preferred web browser.
 <h2>Technologies Used</h2>
 HTML
